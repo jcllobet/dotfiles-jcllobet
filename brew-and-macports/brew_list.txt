@@ -1,0 +1,21 @@
+# Essentials
+curl
+git
+
+# My CLI setup
+tmux
+
+# Modern "UNIX" tools
+fd
+fzf
+ripgrep
+
+# macOS CLI
+reattach-to-user-namespace
+
+# Vendors 
+awscli
+gh
+
+# Casks
+karabiner-elements
