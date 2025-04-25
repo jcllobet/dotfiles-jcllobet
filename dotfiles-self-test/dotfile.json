@@ -2,7 +2,7 @@
   {
     "comment": "Test: Create a lot of non-existent parent directories",
     "type": "symlink",
-    "source": "./malthes_test_file",
+    "source": "./jan_test_file",
     "target": "~/.config/dotfiles-self-test/very/long/obscure/path/malthe_test_file"
   },
   {
