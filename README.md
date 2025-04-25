@@ -6,12 +6,6 @@ Install
 -------
 
     cd ~
-    git clone git@github.com:malthejorgensen/dotfiles-malthe.git dotfiles
+    git clone git@github.com:jcllobet/dotfiles-jcllobet.git dotfiles
     python install.py
 
-Alternatives
-------------
-
-**chezmoi**  
-I tried chezmoi and it immediately deleted a bunch of my files.
-So that was a no-go.
