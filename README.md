@@ -1,6 +1,6 @@
-dotfiles-malthe
+dotfiles-jcllobet
 ===============
-My hand-written dotfile setup.
+My dotfile setup, inspired by https://github.com/malthejorgensen
 
 Install
 -------
